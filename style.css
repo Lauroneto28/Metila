@@ -360,6 +360,7 @@ margin-left: 80px;
     left: 1400px;
     font-size: 22px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top:5px;
 }
 .nav-1{
     position: absolute;
@@ -367,6 +368,7 @@ margin-left: 80px;
     left: 1600px;
     font-size: 22px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top:5px;
 }
 .ultimo{
     color: #fff;
